@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Galeria</title>
+    <style>
+        img { max-width: 100%; height: auto; margin-bottom: 20px; display: block; }
+    </style>
+</head>
+<body>
+    <h1>Minha Galeria</h1>
+    
+    <img src="IMG-20260314-WA0029.jpg">
+    <img src="IMG-20260314-WA0030.jpg">
+    <img src="IMG-20260314-WA0033.jpg">
+    <img src="IMG-20260314-WA0034.jpg">
+    <img src="IMG-20260314-WA0035.jpg">
+    <img src="IMG-20260314-WA0037.jpg">
+
+</body>
+</html>
